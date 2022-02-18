@@ -1,0 +1,24 @@
+{
+  "name": "desafioprecato",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JVSREco19/DesafioPrecato.git"
+  },
+  "author": "João Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JVSREco19/DesafioPrecato/issues"
+  },
+  "homepage": "https://github.com/JVSREco19/DesafioPrecato#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "pg": "^8.7.3",
+    "typeorm": "^0.2.43"
+  }
+}
